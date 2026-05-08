@@ -1,8 +1,7 @@
- # GitHub Pages configuration
+# GitHub Pages configuration
 title: EARSeL SIG IS 2026 EnMAP Tutorials
 description: EnMAP Tutorials for 14th EARSeL Workshop on Imaging Spectroscopy
 
-# Use minimal theme as base (we'll override styles)
 theme: jekyll-theme-minimal
 
 # Markdown processor

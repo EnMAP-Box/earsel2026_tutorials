@@ -1,0 +1,16 @@
+services:
+  docs:
+    image: jekyll/jekyll:latest
+    command: sh -c "bundle install && bundle exec jekyll serve --livereload --host 0.0.0.0 --force_polling"
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    environment:
+      - JEKYLL_UID=${UID:-1000}
+      - JEKYLL_GID=${GID:-1000}
+    volumes:
+      - .:/srv/jekyll
+      - gems:/usr/local/bundle
+
+volumes:
+  gems:
