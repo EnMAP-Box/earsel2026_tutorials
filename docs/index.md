@@ -5,9 +5,38 @@ EnMAP Tutorials at [14th EARSeL Workshop on Imaging Spectroscopy](https://is.ear
 
 # Prerequisites
 
-Participants need to bring their own Laptop.
-Please install the required software in advance, following the
-[installation guide](prerequisites.md).
+Participants are requested to bring their own Laptop.
+Please install the required software in advance. 
+
+The following setup is recommended:
+
+1. Install a conda / conda-forge package installer, e.g., from https://conda-forge.org/download/
+2. Create a conda environment that contains QGIS and *all python packages* that are required to run the tutorials.
+   The environment is defined in the file [`enmaptutorials.yml`](../enmaptutorials.yml).
+
+   ```bash
+   # from web
+   conda env create --file=https://raw.githubusercontent.com/EnMAP-Box/earsel2026_tutorials/enmaptutorials.yml -y 
+   # from the directory where the file is located
+   conda env create --file=enmaptutorials.yml -y
+   ```
+   
+   
+3. Activate the conda environment
+   ````bash
+   conda activate enmaptutorials
+   ```` 
+4. Start QGIS from the conda environment and use a new user profile dedicated to the tutorials
+   ````bash
+   (enmaptutorials) qgis --profile EnMAP-Tutorials
+   ```` 
+   ![installation_qgis_empty.png](../img/installation_qgis_empty.png)
+
+5. Open the QGIS Plugin Manager and install the EnMAP-Box plugin
+
+   ![installation_qgis_pm1.png](../img/installation_qgis_pm1.png)
+
+   ![installation_qgis_pm2.png](../img/installation_qgis_pm2.png)
 
 
 

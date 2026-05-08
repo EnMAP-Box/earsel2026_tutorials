@@ -1,0 +1,30 @@
+# Conda environment for EnMAP tutorials
+# run to install: conda env create -n enmaptutorials --file=enmaptutorials.yml
+# run to update : conda env update -n enmaptutorials --file=enmaptutorials.yml --prune
+# run to delete : conda env remove -n enmaptutorials
+# see https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
+
+channels:
+- conda-forge
+dependencies:
+- python >=3.10
+- qgis >=3.40,<4.0
+- colorama
+- matplotlib-base
+- astropy-base
+- numba >= 0.56.4
+- numpy
+- scikit-learn>=1.4
+- enpt>=1.2.1
+- enfrosp
+- enfrosp_enmapboxapp
+- enpt_enmapboxapp >=1.0.2
+- pytorch
+- pytest
+- pytest-cov
+- pytest-xdist
+
+name: enmaptutorials
+variables:
+  PYQTGRAPH_QT_LIB: PyQt5
+
