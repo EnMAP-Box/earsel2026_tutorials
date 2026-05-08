@@ -45,14 +45,14 @@ The following setup is recommended:
 # Schedule
 ## Part I (09:00 - 11:30)
 
-* 09:00 - 09:30: [Installation of required software](tut_installation.md)
-* 09:30 - 10:30: [EnMAP-Box](tut_enmapbox.md)
-* 10:30 - 11:30: [EnMAP Data Access](tut_data_access.md)
+* 09:00 - 09:30: Installation of required software
+* 09:30 - 10:30: EnMAP-Box
+* 10:30 - 11:30: EnMAP Data Access
 
 
 ## Part II (12:30 - tbd.)
 
-* 12:30 – 13:30 [EnMAP Preprocessing Tool (EnPT)](tut_enpt.md)
-* 13:30 – 14:30 [Water Tools](tut_water_tools.md) 
-* 14:30 – 15:30 [EnSoMAP](tut_ensomap.md)
+* 12:30 – 13:30 EnMAP Preprocessing Tool (EnPT)
+* 13:30 – 14:30 Water Tools
+* 14:30 – 15:30 EnSoMAP
 
