@@ -1,4 +1,4 @@
-# EARSeL 2026 EnMAP Tutorials
+# EARSeL Imaging Spectroscopy 2026 EnMAP Tutorials
 
 EnMAP Tutorials at [14th EARSeL Workshop on Imaging Spectroscopy](https://is.earsel.org/workshop/14-IS-Helsinki2026/), 2-4 June 2026, Helsinki, Finland.
 
@@ -30,13 +30,13 @@ The following setup is recommended:
    ````bash
    (enmaptutorials) qgis --profile EnMAP-Tutorials
    ```` 
-   ![installation_qgis_empty.png](../img/installation_qgis_empty.png)
+   ![installation_qgis_empty.png](img/installation_qgis_empty.png)
 
 5. Open the QGIS Plugin Manager and install the EnMAP-Box plugin
 
-   ![installation_qgis_pm1.png](../img/installation_qgis_pm1.png)
+   ![installation_qgis_pm1.png](img/installation_qgis_pm1.png)
 
-   ![installation_qgis_pm2.png](../img/installation_qgis_pm2.png)
+   ![installation_qgis_pm2.png](img/installation_qgis_pm2.png)
 
 
 
