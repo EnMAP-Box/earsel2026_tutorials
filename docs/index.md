@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: default
 ---
 
 # EARSeL Imaging Spectroscopy 2026 EnMAP Tutorials
