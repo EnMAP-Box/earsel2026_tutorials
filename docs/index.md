@@ -14,13 +14,11 @@ The following setup is recommended:
 
 1. Install a conda / conda-forge package installer, e.g., from https://conda-forge.org/download/
 2. Create a conda environment that contains QGIS and *all python packages* that are required to run the tutorials.
-   The environment is defined in the file [`enmaptutorials.yml`](../enmaptutorials.yml).
+   The environment is defined in [`enmaptutorials.yml`](https://github.com/EnMAP-Box/earsel2026_tutorials/blob/main/enmaptutorials.yml).
 
    ```bash
    # from web
-   conda env create --file=https://raw.githubusercontent.com/EnMAP-Box/earsel2026_tutorials/enmaptutorials.yml -y 
-   # from the directory where the file is located
-   conda env create --file=enmaptutorials.yml -y
+   conda env create --file=https://raw.githubusercontent.com/EnMAP-Box/earsel2026_tutorials/refs/heads/main/enmaptutorials.yml -y
    ```
    
    
