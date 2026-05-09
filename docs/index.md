@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 # EARSeL Imaging Spectroscopy 2026 EnMAP Tutorials
 
 **Last update: 2026-05-08**

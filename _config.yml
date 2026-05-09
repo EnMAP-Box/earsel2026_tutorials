@@ -2,19 +2,9 @@
 title: EARSeL SIG IS 2026 EnMAP Tutorials
 description: EnMAP Tutorials for 14th EARSeL Workshop on Imaging Spectroscopy
 
-theme: jekyll-theme-minimal
+theme: just-the-docs
 
-# Markdown processor
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+url: https://jakimowb.github.io/just-the-docs-example
 
-# Plugins
-plugins:
-  - jekyll-relative-links
-
-# Enable relative links
-relative_links:
-  enabled: true
-  collections: true
+aux_links:
+  Template Repository: https://github.com/jakimowb/just-the-docs-example
