@@ -21,7 +21,6 @@ The following setup is recommended:
    conda env create --file=https://raw.githubusercontent.com/EnMAP-Box/earsel2026_tutorials/refs/heads/main/enmaptutorials.yml -y
    ```
    
-   
 3. Activate the conda environment
    ````bash
    conda activate enmaptutorials
@@ -45,7 +44,9 @@ The following setup is recommended:
 
 * 09:00 - 09:30: Installation of required software
 * 09:30 - 10:30: EnMAP-Box
-* 10:30 - 11:30: EnMAP Data Access
+  *  Introduction
+  *  New Features
+* 10:30 - 11:30: EnMAP Data Access* 
 
 
 ## Part II (12:30 - tbd.)
