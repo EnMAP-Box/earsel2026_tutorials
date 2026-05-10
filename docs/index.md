@@ -23,7 +23,7 @@ The following setup is recommended:
 
    ```bash
    # from web
-   conda env create --file=https://raw.githubusercontent.com/EnMAP-Box/earsel2026_tutorials/refs/heads/main/enmaptutorials.yml -y
+   conda env create --name enmaptutorials --file=https://raw.githubusercontent.com/EnMAP-Box/earsel2026_tutorials/refs/heads/main/enmaptutorials.yml
    ```
    
 3. Activate the conda environment
