@@ -1,9 +1,9 @@
 # GitHub Pages configuration
-title: EARSeL SIG IS 2026 EnMAP Tutorials
+title: EARSeL EnMAP Tutorials
 description: EnMAP Tutorials for 14th EARSeL Workshop on Imaging Spectroscopy
 
 theme: just-the-docs
-
+source: docs
 url: https://enmap-box.github.io/earsel2026_tutorials
 
 aux_links:

@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: default
+nav_order: 1
 ---
 
 # EARSeL Imaging Spectroscopy 2026 EnMAP Tutorials
@@ -9,40 +10,20 @@ layout: default
 
 EnMAP Tutorials at [14th EARSeL Workshop on Imaging Spectroscopy](https://is.earsel.org/workshop/14-IS-Helsinki2026/), 2-4 June 2026, Helsinki, Finland.
 
+# Location
+
+* Undergraduate Center (Otakaari 1), U135a: U7 PWC ([Campus Map](https://www.aalto.fi/sites/default/files/2026-01/Uusi-2.12.-Otaniemi_kampuskartta_kampuskarta_campusmap.pdf))
+* Please meet your local guide at 8:50 in the main lobby of the Undergraduate Center.
+* Enter through the F door at Otakaari 1.
 
 # Prerequisites
 
-Participants are requested to bring their own Laptop.
-Please install the required software in advance. 
+Participants are requested to bring their own Laptop and install 
+the [required software]({{ '/software' | relative_url }}) (QGIS, EnMAP-Box, EnPT) in advance. 
 
-The following setup is recommended:
+Here you find an [installation guide ]({{ '/software' | relative_url }}).
 
-1. Install a conda / conda-forge package installer, e.g., from https://conda-forge.org/download/
-2. Create a conda environment that contains QGIS and *all python packages* that are required to run the tutorials.
-   The environment is defined in [`enmaptutorials.yml`](https://github.com/EnMAP-Box/earsel2026_tutorials/blob/main/enmaptutorials.yml).
-
-   ```bash
-   # from web
-   conda env create --name enmaptutorials --file=https://raw.githubusercontent.com/EnMAP-Box/earsel2026_tutorials/refs/heads/main/enmaptutorials.yml
-   ```
-   
-3. Activate the conda environment
-   ````bash
-   conda activate enmaptutorials
-   ```` 
-4. Start QGIS from the conda environment and use a new user profile dedicated to the tutorials
-   ````bash
-   (enmaptutorials) qgis --profile EnMAP-Tutorials
-   ```` 
-   ![installation_qgis_empty.png](img/installation_qgis_empty.png)
-
-5. Open the QGIS Plugin Manager and install the EnMAP-Box plugin
-
-   ![installation_qgis_pm1.png](img/installation_qgis_pm1.png)
-
-   ![installation_qgis_pm2.png](img/installation_qgis_pm2.png)
-
-
+In case of installation problems, please contact enmapbox@enmap.org.
 
 # Schedule
 ## Part I (09:00 - 11:30)
