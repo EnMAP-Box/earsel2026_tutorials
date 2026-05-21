@@ -18,12 +18,10 @@ EnMAP Tutorials at [14th EARSeL Workshop on Imaging Spectroscopy](https://is.ear
 
 # Prerequisites
 
-Participants are requested to bring their own Laptop and install 
-the [required software]({{ '/software' | relative_url }}) (QGIS, EnMAP-Box, EnPT) in advance. 
+* Participants need to bring their own Laptop and [install required software]({{ '/software' | relative_url }}) (QGIS, EnMAP-Box, EnPT) in advance. 
+* Please download the tutorial data from [https://box.hu-berlin.de/d/d5cfca5efd914f4c85cc/](https://box.hu-berlin.de/d/d5cfca5efd914f4c85cc/) (password will be provided by mail) 
+* In case of installation problems, please contact enmapbox@enmap.org.
 
-Here you find an [installation guide ]({{ '/software' | relative_url }}).
-
-In case of installation problems, please contact enmapbox@enmap.org.
 
 # Schedule
 ## Part I (09:00 - 11:30)
@@ -32,10 +30,10 @@ In case of installation problems, please contact enmapbox@enmap.org.
 * 09:30 - 10:30: EnMAP-Box
   *  Introduction
   *  New Features
-* 10:30 - 11:30: EnMAP Data Access* 
+* 10:30 - 11:30: EnMAP Data Access
 
 
-## Part II (12:30 - tbd.)
+## Part II (12:30 - 15:30)
 
 * 12:30 – 13:30 EnMAP Preprocessing Tool (EnPT)
 * 13:30 – 14:30 Water Tools
