@@ -25,7 +25,9 @@ EnMAP Tutorials at [14th EARSeL Workshop on Imaging Spectroscopy](https://is.ear
     * EnMAP-Box [https://box.hu-berlin.de/d/d5cfca5efd914f4c85cc/](https://box.hu-berlin.de/d/d5cfca5efd914f4c85cc/) 
       (password will be provided by mail / data distributed in workshop)
   * Part II 
-    * EnSoMAP + EnPT [https://nextcloud.gfz.de/s/QpTmtsEmiqgb6CS](https://nextcloud.gfz.de/s/QpTmtsEmiqgb6CS)
+    * EnPT [https://nextcloud.gfz.de/s/RPqR8BZ9SHW9b3f](https://nextcloud.gfz.de/s/RPqR8BZ9SHW9b3f)
+      (Password will be provided by mail. Please make sure to download the data IN ADVANCE to avoid overloading the internet connection during the workshop)
+    * EnSoMAP [https://nextcloud.gfz.de/s/QpTmtsEmiqgb6CS](https://nextcloud.gfz.de/s/QpTmtsEmiqgb6CS)
     * Water Tools [https://nextcloud.awi.de/s/YP5P2JdK4Bqfxyg](https://nextcloud.awi.de/s/YP5P2JdK4Bqfxyg)
   
 * In case of installation problems, please contact enmapbox@enmap.org.
