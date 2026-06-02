@@ -19,7 +19,8 @@ EnMAP Tutorials at [14th EARSeL Workshop on Imaging Spectroscopy](https://is.ear
 # Prerequisites
 
 * Participants need to bring their own Laptop and [install required software]({{ '/software' | relative_url }}) (QGIS, EnMAP-Box, EnPT) in advance.
-  *Please make sure that the QGIS + EnMAP-Box are up-to-date.*
+  * Make sure that the QGIS + EnMAP-Box are up-to-date.
+  * Please download & install the [enmapboxplugin.3.17.7.zip](https://github.com/EnMAP-Box/enmap-box/releases/download/v3.17.7/enmapboxplugin.3.17.7.zip)
 * Please download the tutorial data from
   * Part I 
     * EnMAP-Box [https://box.hu-berlin.de/d/d5cfca5efd914f4c85cc/](https://box.hu-berlin.de/d/d5cfca5efd914f4c85cc/) 
