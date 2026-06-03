@@ -19,15 +19,13 @@ EnMAP Tutorials at [14th EARSeL Workshop on Imaging Spectroscopy](https://is.ear
 # Prerequisites
 
 * Participants need to bring their own Laptop and [install required software]({{ '/software' | relative_url }}) (QGIS, EnMAP-Box, EnPT) in advance.
-  * Make sure that the QGIS + EnMAP-Box are up-to-date.
-  * Please download & install the [enmapboxplugin.3.17.7.zip](https://github.com/EnMAP-Box/enmap-box/releases/download/v3.17.7/enmapboxplugin.3.17.7.zip)
-* Please download the tutorial data from
+* Please install QGIS 3.44 and the [enmapboxplugin.3.17.7.zip](https://github.com/EnMAP-Box/enmap-box/releases/download/v3.17.7/enmapboxplugin.3.17.7.zip)
+  [as described here]({{ '/software' | relative_url }})
+* Please download the tutorial data IN ADVANCE to avoid overloading the internet connection during the workshop (passwords are provided by mail):
   * Part I 
-    * EnMAP-Box [https://box.hu-berlin.de/d/d5cfca5efd914f4c85cc/](https://box.hu-berlin.de/d/d5cfca5efd914f4c85cc/) 
-      (password will be provided by mail / data distributed in workshop)
+    * EnMAP-Box [https://box.hu-berlin.de/d/d5cfca5efd914f4c85cc/](https://box.hu-berlin.de/d/d5cfca5efd914f4c85cc/)
   * Part II 
     * EnPT [https://nextcloud.gfz.de/s/RPqR8BZ9SHW9b3f](https://nextcloud.gfz.de/s/RPqR8BZ9SHW9b3f)
-      (Password will be provided by mail. Please make sure to download the data IN ADVANCE to avoid overloading the internet connection during the workshop)
     * EnSoMAP [https://nextcloud.gfz.de/s/QpTmtsEmiqgb6CS](https://nextcloud.gfz.de/s/QpTmtsEmiqgb6CS)
     * Water Tools [https://nextcloud.awi.de/s/YP5P2JdK4Bqfxyg](https://nextcloud.awi.de/s/YP5P2JdK4Bqfxyg)
   

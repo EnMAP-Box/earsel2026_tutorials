@@ -16,6 +16,6 @@ nav_order: 3
 
 ## Part II (12:30 - tbd.)
 
-* 12:30 – 13:30 EnMAP Preprocessing Tool (EnPT)
-* 13:30 – 14:30 Water Tools
-* 14:30 – 15:30 EnSoMAP
+* 12:30 – 13:30 EnSoMAP
+* 13:30 – 14:30 EnMAP Preprocessing Tool (EnPT)
+* 14:30 – 15:30 Water Tools
