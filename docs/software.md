@@ -32,7 +32,7 @@ The following setup is recommended to install the required software:
    ```` 
    ![installation_qgis_empty.png](img/installation_qgis_empty.png)
 
-5. Download the EnMAP-Box 3.17.7. [enmapboxplugin.3.17.7.zip](https://github.com/EnMAP-Box/enmap-box/releases/download/v3.17.7/enmapboxplugin.3.17.7.zip>) from https://github.com/EnMAP-Box/enmap-box/releases/tag/v3.17.7 
+5. Download the EnMAP-Box 3.17.7. [enmapboxplugin.3.17.7.zip](https://github.com/EnMAP-Box/enmap-box/releases/download/v3.17.7/enmapboxplugin.3.17.7.zip) from https://github.com/EnMAP-Box/enmap-box/releases/tag/v3.17.7 
 
 6. Open the *QGIS Plugin Manager* -> *Install from ZIP* and install the EnMAP-Box from *enmapboxplugin.3.17.7.zip*
    
