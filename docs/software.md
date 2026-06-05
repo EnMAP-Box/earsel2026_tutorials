@@ -37,3 +37,19 @@ The following setup is recommended to install the required software:
 6. Open the *QGIS Plugin Manager* -> *Install from ZIP* and install the EnMAP-Box from *enmapboxplugin.3.17.7.zip*
    
    ![installation_qgis_zip.png](img/installation_qgis_pm1.png)
+
+
+# References and Contact
+
+## EnMAP-Box
+
+* Mail: enmapbox@enmap.org
+* Documentation: https://enmap-box.readthedocs.io
+* Source Code: https://github.com/EnMAP-Box/enmapbox
+* B. Jakimow, A. Janz, F. Thiel, A. Okujeni, P. Hostert, and S. van der Linden, “EnMAP-Box: Imaging spectroscopy in QGIS,” SoftwareX, vol. 23, p. 101507, 2023, doi: https://doi.org/10.1016/j.softx.2023.101507 
+
+## EnMAP
+
+* Webpage: https://enmap.org
+* Chabrillat et al., “The EnMAP spaceborne imaging spectroscopy mission: Initial scientific results two years after launch,” Remote Sensing of Environment, vol. 315, p. 114379, Dec. 2024, doi: https://doi.org/10.1016/j.rse.2024.114379
+
