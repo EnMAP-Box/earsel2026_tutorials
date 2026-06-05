@@ -48,3 +48,21 @@ EnMAP Tutorials at [14th EARSeL Workshop on Imaging Spectroscopy](https://is.ear
 * 13:30 – 14:30 EnMAP Preprocessing Tool (EnPT)
 * 14:30 – 15:30 Water Tools
 
+
+# References and Contact
+
+* Benjamin Jakimow benjamin.jakimow@geo.hu-berlin.de
+* Nicol Pinnel Nicole.Pinnel@dlr.de
+
+## EnMAP-Box
+
+* Mail: enmapbox@enmap.org
+* Documentation: https://enmap-box.readthedocs.io
+* Source Code: https://github.com/EnMAP-Box/enmapbox
+* B. Jakimow, A. Janz, F. Thiel, A. Okujeni, P. Hostert, and S. van der Linden, “EnMAP-Box: Imaging spectroscopy in QGIS,” SoftwareX, vol. 23, p. 101507, 2023, doi: https://doi.org/10.1016/j.softx.2023.101507 
+
+## EnMAP
+
+* Webpage: https://enmap.org
+* Chabrillat et al., “The EnMAP spaceborne imaging spectroscopy mission: Initial scientific results two years after launch,” Remote Sensing of Environment, vol. 315, p. 114379, Dec. 2024, doi: https://doi.org/10.1016/j.rse.2024.114379
+
