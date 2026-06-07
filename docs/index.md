@@ -39,7 +39,7 @@ EnMAP Tutorials at [14th EARSeL Workshop on Imaging Spectroscopy](https://is.ear
 * 09:30 - 10:30: EnMAP-Box
   *  Introduction
   *  New Features
-* 10:30 - 11:30: EnMAP Data Access* 
+* 10:30 - 12:00: EnMAP Data Access* 
 
 
 ## Part II (13:00 - 16:00)
